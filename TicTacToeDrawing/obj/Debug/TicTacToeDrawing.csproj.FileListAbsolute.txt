@@ -1,0 +1,9 @@
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\bin\Debug\TicTacToeDrawing.exe.config
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\bin\Debug\TicTacToeDrawing.exe
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\bin\Debug\TicTacToeDrawing.pdb
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.csprojResolveAssemblyReference.cache
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.Form1.resources
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.Properties.Resources.resources
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.csproj.GenerateResource.Cache
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.exe
+c:\users\james\onedrive\documents\visual studio 2015\Projects\TicTacToeDrawing\TicTacToeDrawing\obj\Debug\TicTacToeDrawing.pdb
